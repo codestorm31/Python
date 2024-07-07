@@ -1,0 +1,4 @@
+These projects will help you
+build a solid foundation 
+in web scraping
+and automation
